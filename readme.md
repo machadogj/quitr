@@ -41,3 +41,6 @@ In order to choose whether to run the components viewer or the actual app, you
 need to modify the `index.ios.js` file.
 
 Run the mobile app like a regular React Native app.
+
+## Credits
+Design by [@responsivekev](https://twitter.com/responsivekev)
