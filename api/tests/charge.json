@@ -1,0 +1,9 @@
+{
+  "action": "charge",
+  "secret": "1lbUL5F0YozcPjhRvOlN1jGG1lbUL5F0YovOlN1jGG1lbUL5F0YozcPjhRvOlN1jGG",
+  "amount": 10,
+  "customerId": "cust_123",
+  "cardId": "card_19YFwOKNM6Ex33Rv9WYsMfxU",
+  "dailyCigarettes": 10,
+  "currentCigarettes": 13
+}

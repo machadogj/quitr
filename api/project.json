@@ -1,0 +1,9 @@
+{
+  "name": "quitr",
+  "description": "",
+  "memory": 128,
+  "timeout": 5,
+  "profile": "machadogj",
+  "role": "arn:aws:iam::925489769349:role/quitr_lambda_function",
+  "environment": {}
+}
