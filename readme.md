@@ -2,6 +2,8 @@
 
 Mobile application that uses loss aversion to help users quit smoking.
 
+![recording](http://g.recordit.co/R8U6P7C5p7.gif)
+
 ## Goal
 
 This is a pet project mostly oriented at learning several libs and tools
